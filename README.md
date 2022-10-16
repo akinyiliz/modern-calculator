@@ -5,10 +5,15 @@ A simple calculator built using JavaScript.
 ## Contributing Guide
 
 - Clone the repository
+
   `git clone https://github.com/akinyiliz/modern-calculator.git`
+
 - After cloning, open on VS Code
+
   `cd app-landing-page`
+
   `code .`
+
 - Make sure to branch out the main branch using
   `git branch branch-name && git switch branch-name`
 - Make changes hthen commit
